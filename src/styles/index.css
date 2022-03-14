@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Lora&family=Open+Sans&family=Roboto:wght@300&display=swap');
+
+* {
+    font-family: Roboto !important;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto;
+}
+
+.links {
+    text-decoration: none;
+    color: #fff;
+}
+
+.links:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.links-two {
+    text-decoration: none;
+    color: #000000;
+}
+
+.links-three {
+    text-decoration: none;
+    color: #0766e2;
+}
+
+.good {
+    color: orange;
+    font-size: 16px;
+}
+
+.bad {
+    color: gray;
+    font-size: 16px;
+}
